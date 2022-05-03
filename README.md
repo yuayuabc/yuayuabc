@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 媛媛
 - 👀 I’m interested in 睡懒觉
-- 🌱 I’m currently learning 微信小程序开发
+- 🌱 I’m currently learning 摸鱼
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
